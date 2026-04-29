@@ -1,5 +1,5 @@
 function copyIP() {
-    navigator.clipboard.writeText('rynox.mcsh.io').then(() => {
+    navigator.clipboard.writeText('vexomc.play.hosting').then(() => {
         const btn = document.querySelector('.copy-ip');
         const originalText = btn.innerHTML;
         btn.innerHTML = '<i class="fas fa-check"></i> تم النسخ!';
